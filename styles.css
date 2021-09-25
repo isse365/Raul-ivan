@@ -1,0 +1,7 @@
+#nav-bar{
+    position: absolute;
+    top: 0;
+}
+#header-img{
+    display: flexbox;
+}
