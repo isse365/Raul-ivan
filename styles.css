@@ -1,7 +1,13 @@
-#nav-bar{
-    position: absolute;
-    top: 0;
+@media  (max-width: 740px) {
+    body{
+        text-align: center;
+    }
 }
+
+#header{
+    display: flex;
+}
+
 #header-img{
     display: flexbox;
 }
